@@ -1,0 +1,21 @@
+PROJECT NAME: TENTS PUZZLE GAME
+
+DEVELOPER NAME:GANESHPRASAD.T.P
+
+DEVELOPMENT PLATFORM:Qt
+
+IDEA OWNER:GANESHPRASAD.T.P
+
+PROJECT DESCRIPTION:
+
+This is a brain teasing puzzle game where a player will be given a grid of 8*8 squares 
+
+with trees at specific boxes the player has to arrange the tents according to certain 
+
+conditions. . The UI design of this game will be unique and pleasing.
+
+And solution requires high thinking from the user.
+ 
+
+
+PROJECT STATUS:COMPLETED
